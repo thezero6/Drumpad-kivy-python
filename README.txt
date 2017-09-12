@@ -4,6 +4,11 @@ all the code is well managed and easy term which may help you to understand it w
 any issue regarding code you can contact me at prashant1080p@gmail.com
 #####################################################################################################
 
+################################################ NOTE ###############################################
+Application has some issues regarding to python3 it will fix soon it does work fone with python2
+#####################################################################################################
+
+
 follow me on:
 facebook.com/whyamiprince
 instagram.com/whyamiprince
