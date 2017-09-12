@@ -21,7 +21,7 @@ def generate_buttons(layout):
         new_button.bind(on_press=playsound)
         layout.add_widget(new_button)
 
-class TestApp(App):
+class Drumpad(App):
     def build(self):
 
         main_layout = BoxLayout(padding=5)
@@ -36,4 +36,4 @@ class TestApp(App):
         return main_layout
 
 if __name__=="__main__":
-    TestApp().run()
+    Drumpad().run()
