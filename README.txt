@@ -5,7 +5,7 @@ any issue regarding code you can contact me at prashant1080p@gmail.com
 #####################################################################################################
 
 ################################################ NOTE ###############################################
-Application has some issues regarding to python3 it will fix soon it does work fone with python2
+Application has some issues regarding to python3 it will fix soon it does work fine with python2
 #####################################################################################################
 
 
