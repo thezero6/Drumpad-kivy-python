@@ -30,7 +30,7 @@ installing kivy is also simple
 pip install kivy or pip3 install kivy
 ```
 # packages you need to install to run program
-Python 2 or Python 3 (Recommanded)
+Python 2 or Python 3 (Recommended )
 visit: https://www.python.org/
 
 pip (package manager to install kivy)
